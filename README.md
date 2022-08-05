@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @adhred
-- 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on Projects
-- 📫 How to reach me @adhred
+- 👀 I’m interested in Cybersecurity and Machine Learning 
+- 🌱 I’m currently learning C++ and Python
 
 <!---
 adhred/adhred is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
