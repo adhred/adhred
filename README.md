@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @adhred
-- 👀 I’m interested in Cybersecurity and AI
 - 🌱 I’m currently learning C++ and Python
 
 <!---
