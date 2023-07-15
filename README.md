@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning C++ and Python
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/jpbnoe3UIa8TU8LM13/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/jpbnoe3UIa8TU8LM13/giphy.gif"/>
 </div>
 
 <!---
