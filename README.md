@@ -1,11 +1,10 @@
 # 💫 About Me:
-I'm @adhred
+😎I'm @adhred
 
-I'm currently learning C++ & Python
+🌻I'm currently learning C++ & Python
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=adhred&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
+# 📊 Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=adhred&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adhred&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
