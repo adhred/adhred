@@ -12,10 +12,9 @@
 - 📫 How to reach me **theadharshreddy@gmail.com**
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adhred&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="adhred" width="48%" height="195px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adhred&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="adhred" width="48%" height="170px" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=adhred&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="adhred" width="48%" height="195px" />
 </p>
-
 
 
 <h4 align="center">Connect with me:</h4>
