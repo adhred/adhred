@@ -16,3 +16,5 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adhred&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="adhred" /></p>
+
+![Snake animation](https://raw.githubusercontent.com/adhred/adhred/output/github-contribution-grid-snake-dark.svg)
