@@ -12,3 +12,5 @@
 [![](https://visitcount.itsvg.in/api?id=adhred&icon=8&color=2)](https://visitcount.itsvg.in)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adhred)](https://github.com/adhred/github-readme-stats)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=adhred)](https://github.com/adhred/github-readme-stats)
