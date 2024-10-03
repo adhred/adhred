@@ -16,6 +16,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=adhred&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="adhred" width="48%" height="195px" />
 </p>
 
+![Snake animation](https://raw.githubusercontent.com/adhred/adhred/output/github-contribution-grid-snake-dark.svg)
 
 <h4 align="center">Connect with me:</h4>
 <p align="center">
@@ -28,4 +29,3 @@
 </p>
 
 
-![Snake animation](https://raw.githubusercontent.com/adhred/adhred/output/github-contribution-grid-snake-dark.svg)
